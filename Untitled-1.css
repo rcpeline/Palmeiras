@@ -1,3 +1,10 @@
+header{
+    background: linear-gradient(rgb(64, 156, 35), Green)
+
+}
+
+
+
 h1{
 font-size: 90px;
 text-align: center;
@@ -17,15 +24,14 @@ background: linear-gradient(rgb(255, 255, 255), Green)
 }
 
 .b{
-width: 200px;
-border: solid 10px;
-margin-left: 30%;
-align-items: center;
+width: 400px;
+border: solid 10px rgb(54, 54, 23);
+margin-left: 35%;
  }
 
 .a{
 width: 500px;
-border: solid 10px;
+border: solid 10px black;
 margin-left: 30%;  
 align-items: center;
 }
