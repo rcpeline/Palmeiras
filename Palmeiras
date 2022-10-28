@@ -10,7 +10,7 @@
 
 <body>
     <h1>Palmeiras melhor do mundo</h1>
-    <img class="a" src="2.jpg" alt="ilustracao">
+    <img class="a" src="images.jfif" alt="image">
 
     
 <p>Ranking divulgado na última segunda feira (11), a Federação Internacional de História e Estatísticas do Futebol (IFFHS) pelo segundo mês consecutivo elegeu o Palmeiras como o melhor clube do mundo. O top 10 conta também com mais 3 equipes brasileiras, Flamengo, Athletico Paranaense e Atlético Mineiro.</p>
@@ -24,6 +24,9 @@
     <li>5º Real Madrid 268</li>
     </ul>
     
+
+</body>
+</html>
 
 </body>
 </html>
