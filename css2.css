@@ -1,0 +1,41 @@
+header{
+    background-color: rgba(0, 0, 0, 0.774); 
+}
+h1{
+font-size: 90px;
+text-align: center;
+color: rgb(255, 255, 255);
+
+
+}
+h2{
+font-size: 40px;
+text-align: center;
+}
+body{
+    color: aliceblue;
+margin: 5%;
+font-size: 30px;
+text-align: justify;
+background-color: rgb(7, 40, 10);
+
+}
+.b{
+width: 400px;
+border: solid 10px rgb(54, 54, 23);
+margin-left: 35%;
+ }
+.a{
+width: 500px;
+border: solid 10px black;
+margin-left: 30%;  
+align-items: center;
+}
+.h{
+    margin: 43%;
+    font-size: 50px;
+    color: rgb(0, 255, 0);
+    text-align: center;
+    }
+
+
